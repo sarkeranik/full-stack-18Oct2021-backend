@@ -95,4 +95,6 @@ You can use these default credentials to generate valid JWTokens at the ../api/a
 - .NET Core 5 SDK and above
 - Basic Understanding of Architectures and Clean Code Principles
 
+[Full Documentation](https://drive.google.com/drive/u/1/folders/1eZrpNhOdoPj6Btm0MWVlK_OQmDJID2mX)
+
 
