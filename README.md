@@ -1,7 +1,7 @@
 
 # Find my favourite Restaurants
 
- Backend API for to search for a restaurant,search for restauraent to check if available on any date and time, scrap data from a restaurants details data website and insert it to DB.
+Features: A Backend API for searching for a restaurant, Search for restauraent to check if available on any specific date and time, also scrap data from a restaurants details data website and insert it to DB.
 
 ## Installation
 
