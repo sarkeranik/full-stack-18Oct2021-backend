@@ -54,7 +54,6 @@ You can use these default credentials to generate valid JWTokens at the ../api/a
 3. Add Restaurant to the user's Favorite Collection.
 
 ## Technologies
-- ASP.NET Core 5 WebApi
 - .NET Core 3.1
 - REST Standards
 - GraphQL
