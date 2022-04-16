@@ -5,6 +5,7 @@ A Searching System Backend API for a restaurants, Following are the features,
 1. Search a Restaurent by its Name
 2. Search for restauraent to check if available on any specific date and time,
 3. Scrap data from a restaurants details data website and insert it to DB. [From Here](https://gist.githubusercontent.com/seahyc/7ee4da8a3fb75a13739bdf5549172b1f/raw/f1c3084250b1cb263198e433ae36ba8d7a0d9ea9/hours.csv)
+4. Add the restaurant to your favourite collection and share the generated link with your friends and family.
 
 ## Installation
 
